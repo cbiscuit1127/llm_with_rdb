@@ -1,0 +1,1 @@
+- [ ] あとでrequirements.txtの中身をglobalからvenvに移しておく
